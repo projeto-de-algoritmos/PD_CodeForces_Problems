@@ -1,0 +1,23 @@
+{
+  "name": "PD_CodeForcesProblems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dividing_coins.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/projeto-de-algoritmos/PD_CodeForces_Problems.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/projeto-de-algoritmos/PD_CodeForces_Problems/issues"
+  },
+  "homepage": "https://github.com/projeto-de-algoritmos/PD_CodeForces_Problems#readme",
+  "dependencies": {
+    "lol-io": "^1.1.0"
+  }
+}
